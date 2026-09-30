@@ -1,4 +1,4 @@
-"# Credit Risk Assessment using SHAP
+# Credit Risk Assessment using SHAP
 
 A full-stack credit risk prediction application that evaluates whether a loan applicant is likely to default, using a trained machine learning model and a simple web interface. The project combines a Python backend, a browser-based front end, and an interactive notebook for model exploration and explainability.
 
@@ -385,4 +385,3 @@ It is a useful project for learning how models move from notebook experimentatio
 ## License
 
 This project is intended for educational and demonstration purposes. If you plan to use it for production or commercial deployment, review licensing and compliance requirements before using the model in a real lending environment.
-" 
